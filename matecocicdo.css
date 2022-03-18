@@ -1,11 +1,12 @@
 
-body{background-color:rgb(18, 25, 41)}
+
+body{background-color:rgba(23, 32, 54, 0.753)}
 
     p{color: rgb(255, 255, 255);}
 
     h1{color: rgb(255, 255, 255);}
 
-    h2{color:rgb(160, 193, 231);}
+    h2{color:rgb(255, 255, 255);}
 
     h3{color:  rgb(255, 255, 255);}
 
@@ -21,14 +22,12 @@ body{background-color:rgb(18, 25, 41)}
         }
 
     a{
-         color: blue;
+         color: rgb(255, 255, 255);
         }
     
     a:hover{
-        color:black
+        color:rgb(190, 14, 14)
         }
     img{
         margin: auto;
     }
-
-
